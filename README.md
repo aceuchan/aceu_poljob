@@ -1,6 +1,5 @@
 # aceu_poljob
 Police Side Job - Patrol Tasks
-
 This is not a Police Job Script but rather an additional side hustle for Police
 
 Give your Police Department a different job to do if the city is a bit quiet! Introducing Police Side Job!
